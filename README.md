@@ -71,16 +71,6 @@ Inferred difficulty level of proofs and problems
 💡 Vision
 Conjecture isn’t just a tool — it’s a new mathematical medium. It lowers the barrier between idea and formalization, intuition and rigor. By combining the best of AI, modern UX, and a deep respect for the culture of mathematics, we’re building something bold: a home for the future of proof.
 
-🛠 Tech Stack (Planned / MVP)
-Frontend: React, MathJax/KaTeX, D3.js for graph visualizations
-
-Backend: Python (FastAPI), SymPy, LaTeXML
-
-AI Engine: OpenAI / Claude integration for logic and proof assistance
-
-Plotting: Desmos API / Plotly / custom WebGL rendering
-
-Database: PostgreSQL (proofs, theorems, references)
-
-Auth/Collab: Firebase / Supabase for real-time editing
+🧠 “A conjecture is the imagination’s first draft of truth.”
+Welcome to the future of mathematics.
 
